@@ -1,5 +1,7 @@
 # Property Management Social Media Assistant
 
+[![628871352-122123368203066741-6581100159400156428-n.jpg](https://i.postimg.cc/bNbbkNg6/628871352-122123368203066741-6581100159400156428-n.jpg)](https://postimg.cc/KRGRybdL)
+
 **Version**: 2.0  
 **Status**: ✅ Production Ready  
 **Last Updated**: March 8, 2025
