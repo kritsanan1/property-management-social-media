@@ -1,0 +1,8 @@
+{
+    "type": "announcement",
+    "topic": "[หัวข้อ]",
+    "details": "[รายละเอียด]",
+    "date_time": "[วัน/เวลา]",
+    "location_area": "[สถานที่/ area]",
+    "call_to_action": "[Action/ the action]"
+}
